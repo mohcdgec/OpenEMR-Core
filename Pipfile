@@ -17,6 +17,7 @@ python-decouple = "*"
 markdown = "*"
 django-phone-field = "*"
 pillow = "*"
+graphene-django = "*"
 
 [requires]
 python_version = "3.8"
