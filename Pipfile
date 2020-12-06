@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+django = "*"
+django-admin = "*"
+psycopg2-binary = "*"
+django-cors-headers = "*"
+django-filter = "*"
+python-decouple = "*"
+markdown = "*"
+django-phone-field = "*"
+pillow = "*"
+
+[requires]
+python_version = "3.8"
